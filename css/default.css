@@ -36,18 +36,6 @@ header{
   overflow: hidden;
 }
 
-#main1{
-  background-color:coral;
-  width: calc(100% - 200px);
-  min-width: 500px;
-  float: left;
-}
-
-#main2{
-  background-color:yellow;
-  width: 500px;
-  float: left;
-}
 
 aside{
   background-color:green;
@@ -59,7 +47,7 @@ aside{
 }
 
 footer{
-  background-color:red;
+  background-color:coral;
   clear: both;
 }
 
