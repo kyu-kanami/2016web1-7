@@ -6,7 +6,7 @@
 }
 
 body{
-  background-color:black;
+  background-color:white;
   margin: 48px 0 0 0;
 }
 
@@ -37,20 +37,20 @@ header{
 }
 
 #main1{
-  background-color:black;
+  background-color:red;
   width: calc(100% - 200px);
   min-width: 500px;
   float: left;
 }
 
 #main2{
-  background-color:black;
+  background-color:yellow;
   width: 500px;
   float: left;
 }
 
 aside{
-  background-color:black;
+  background-color:gray;
   width: 200px;
   float: right;
   position: relative;
@@ -59,7 +59,7 @@ aside{
 }
 
 footer{
-  background-color:black;
+  background-color:blue;
   clear: both;
 }
 
